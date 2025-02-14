@@ -9,7 +9,7 @@ from PIL import Image
 apiKey = "oz9xi5WovQYc6Oazaf2Bwug6WkqJu55XLeOWikgNvWDQmLZDYAr79hRW"
 apiUrl = "https://api.pexels.com/v1/search"
 instagramUsername = "pakistanvistas"
-instagramPassword = "Har!pu@2007"
+instagramPassword = "P4kistanV!stas"
 
 # Aspect Ratio Limits
 max_aspect_ratio = 1.91
