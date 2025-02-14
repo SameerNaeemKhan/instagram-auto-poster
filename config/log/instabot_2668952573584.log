@@ -1,0 +1,17 @@
+2024-09-09 22:17:44,239 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2024-09-09 22:17:44,239 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\micra\PycharmProjects\pakistanVistasBot\venv\Lib\site-packages\instabot\bot\bot.py
+2024-09-09 22:17:44,239 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2024-09-09 22:17:44,240 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2024-09-09 22:17:44,240 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\micra\PycharmProjects\pakistanVistasBot/config/pakistanvistas_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7a5fa84d-07f5-4737-9f06-177927170984
+- uuid=45eaacbe-5401-49b6-b03d-79c0fb3bea55
+- client_session_id=ae48f250-afe9-4dbe-968b-c592067b5b08
+- device_id=android-652ebe25a70b032e
+2024-09-09 22:17:44,242 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2024-09-09 22:17:47,316 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2024-09-09 22:17:47,678 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2024-09-09 22:17:47,679 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'pakistanvistas'!
+2024-09-09 22:17:47,679 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\micra\PycharmProjects\pakistanVistasBot/config/pakistanvistas.checkpoint
+2024-09-09 22:18:37,986 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\micra\PycharmProjects\pakistanVistasBot/config/pakistanvistas.checkpoint
+2024-09-09 22:18:37,987 - instabot version: 0.117.0 (bot) - INFO - Total requests: 35
